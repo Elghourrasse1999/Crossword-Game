@@ -1,2 +1,2 @@
 # Crossword-Game
-I have built a simple crossword using Html Css and Javascript
+I have built a simple crossword game using Html Css and Javascript
